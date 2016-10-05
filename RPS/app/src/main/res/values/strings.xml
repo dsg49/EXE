@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">RPS</string>
-    <string name="button1">Shoot</string>
-    <string name="win_text">You Win!</string>
-    <string name="lose_text">You Lose!</string>
-    <string name="tie_text">You Tied...</string>
-
-</resources>
